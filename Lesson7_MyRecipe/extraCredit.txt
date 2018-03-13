@@ -1,0 +1,10 @@
+
+Extra Credit 
+
+I added a roasted Potato Recipe for the extra credit section. The app has the following features.
+
+1. All ingriendents or instructions will be visible when clicked, and will be hidden when clicked again. I used toggle()  and next () to achieve that
+2. When hovering, the hovered element will be on focus by way of having a border and respective details are displayed. Once the mouse leaves the element it will go back to the default state. I used CSS() border property and Animate() for that.
+
+
+ 

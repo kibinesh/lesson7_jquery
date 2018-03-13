@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 12, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Kibinesh Fulas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This projects uses jquery methods  particularly click, hover, animate methods and  creates an event handler function display  to hide and show text. text.  
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kibinesh.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. How to traverse to a specific elements using jquery methods. 
+2. How to add events to an elements, create event handler function and trigger an event.
+3. How to use animate method to add some sliding effects.
